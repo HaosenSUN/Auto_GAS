@@ -1,4 +1,4 @@
-# Auto-GAS: Automated Proxy Discovery for Training-free Generation Architecture Search
+# Auto-GAS
 
 This is the code for the paper: Auto-GAS: Automated Proxy Discovery for Training-free Generation Architecture Search.
 
