@@ -1,0 +1,12 @@
+torch
+torchvision
+Pillow
+tqdm
+graphviz
+python-dateutil
+scipy
+torchsummary
+pytorch-msssim
+transforms3d
+imageio==2.9.0
+python-dateutil

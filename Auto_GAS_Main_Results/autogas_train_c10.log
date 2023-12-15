@@ -1,0 +1,304 @@
+2023-10-24 17:10:15,308 => calculate inception score
+2023-10-24 17:11:21,424 => calculate fid score
+2023-10-24 17:12:53,420 Inception score mean: 1.2434815168380737, Inception score std: 0.0025914288125932217, FID score: 380.8539900134183 || @ epoch 0.
+2023-10-24 17:19:08,031 => calculate inception score
+2023-10-24 17:20:10,757 => calculate fid score
+2023-10-24 17:21:43,211 Inception score mean: 1.5094398260116577, Inception score std: 0.004404584877192974, FID score: 250.5833841274532 || @ epoch 5.
+2023-10-24 17:28:02,627 => calculate inception score
+2023-10-24 17:29:05,587 => calculate fid score
+2023-10-24 17:30:38,282 Inception score mean: 3.112043619155884, Inception score std: 0.042041148990392685, FID score: 127.30586664935834 || @ epoch 10.
+2023-10-24 17:36:58,400 => calculate inception score
+2023-10-24 17:38:01,088 => calculate fid score
+2023-10-24 17:39:34,397 Inception score mean: 5.165762424468994, Inception score std: 0.054704055190086365, FID score: 60.10865652836998 || @ epoch 15.
+2023-10-24 17:45:50,159 => calculate inception score
+2023-10-24 17:46:52,572 => calculate fid score
+2023-10-24 17:48:24,392 Inception score mean: 5.913583278656006, Inception score std: 0.05738290771842003, FID score: 45.2172854430994 || @ epoch 20.
+2023-10-24 17:54:42,227 => calculate inception score
+2023-10-24 17:55:44,962 => calculate fid score
+2023-10-24 17:57:16,558 Inception score mean: 6.52793025970459, Inception score std: 0.07943214476108551, FID score: 35.88333905917847 || @ epoch 25.
+2023-10-24 18:03:34,897 => calculate inception score
+2023-10-24 18:04:37,842 => calculate fid score
+2023-10-24 18:06:09,633 Inception score mean: 6.654661655426025, Inception score std: 0.07685283571481705, FID score: 35.77960988440714 || @ epoch 30.
+2023-10-24 18:12:26,683 => calculate inception score
+2023-10-24 18:13:29,109 => calculate fid score
+2023-10-24 18:15:01,358 Inception score mean: 7.031929969787598, Inception score std: 0.09518591314554214, FID score: 29.281429168881573 || @ epoch 35.
+2023-10-24 18:21:17,233 => calculate inception score
+2023-10-24 18:22:19,620 => calculate fid score
+2023-10-24 18:23:52,191 Inception score mean: 7.259716987609863, Inception score std: 0.09212718904018402, FID score: 27.66225116581421 || @ epoch 40.
+2023-10-24 18:30:10,010 => calculate inception score
+2023-10-24 18:31:12,682 => calculate fid score
+2023-10-24 18:32:44,597 Inception score mean: 7.392905235290527, Inception score std: 0.08046773076057434, FID score: 25.006488125114686 || @ epoch 45.
+2023-10-24 18:39:01,502 => calculate inception score
+2023-10-24 18:40:03,986 => calculate fid score
+2023-10-24 18:41:35,333 Inception score mean: 7.560029029846191, Inception score std: 0.06618949770927429, FID score: 24.768413278045273 || @ epoch 50.
+2023-10-24 18:47:50,936 => calculate inception score
+2023-10-24 18:48:53,155 => calculate fid score
+2023-10-24 18:50:24,407 Inception score mean: 7.639942169189453, Inception score std: 0.09598510712385178, FID score: 23.361428285367595 || @ epoch 55.
+2023-10-24 18:56:41,693 => calculate inception score
+2023-10-24 18:57:44,253 => calculate fid score
+2023-10-24 18:59:16,390 Inception score mean: 7.444494724273682, Inception score std: 0.11444570869207382, FID score: 21.762165920948235 || @ epoch 60.
+2023-10-24 19:05:33,044 => calculate inception score
+2023-10-24 19:06:35,816 => calculate fid score
+2023-10-24 19:08:07,546 Inception score mean: 7.611239433288574, Inception score std: 0.06830084323883057, FID score: 21.992334605812232 || @ epoch 65.
+2023-10-24 19:14:23,497 => calculate inception score
+2023-10-24 19:15:26,040 => calculate fid score
+2023-10-24 19:16:57,464 Inception score mean: 7.627687931060791, Inception score std: 0.06330158561468124, FID score: 20.594549151407705 || @ epoch 70.
+2023-10-24 19:23:12,928 => calculate inception score
+2023-10-24 19:24:15,241 => calculate fid score
+2023-10-24 19:25:45,777 Inception score mean: 7.661679744720459, Inception score std: 0.07276860624551773, FID score: 20.513279681289987 || @ epoch 75.
+2023-10-24 19:31:59,038 => calculate inception score
+2023-10-24 19:33:00,916 => calculate fid score
+2023-10-24 19:34:30,796 Inception score mean: 7.7922773361206055, Inception score std: 0.07676280289888382, FID score: 20.906065103325602 || @ epoch 80.
+2023-10-24 19:40:43,515 => calculate inception score
+2023-10-24 19:41:45,316 => calculate fid score
+2023-10-24 19:43:15,238 Inception score mean: 7.812516689300537, Inception score std: 0.08826779574155807, FID score: 20.08094709908812 || @ epoch 85.
+2023-10-24 19:49:26,413 => calculate inception score
+2023-10-24 19:50:28,074 => calculate fid score
+2023-10-24 19:51:58,061 Inception score mean: 7.8735456466674805, Inception score std: 0.08661288022994995, FID score: 18.89589450807506 || @ epoch 90.
+2023-10-24 19:58:10,534 => calculate inception score
+2023-10-24 19:59:12,195 => calculate fid score
+2023-10-24 20:00:43,518 Inception score mean: 7.890124320983887, Inception score std: 0.0960124209523201, FID score: 18.89343113757684 || @ epoch 95.
+2023-10-24 20:06:56,236 => calculate inception score
+2023-10-24 20:07:57,844 => calculate fid score
+2023-10-24 20:09:28,554 Inception score mean: 7.8413238525390625, Inception score std: 0.14276626706123352, FID score: 17.908583622288802 || @ epoch 100.
+2023-10-24 20:15:41,046 => calculate inception score
+2023-10-24 20:16:42,770 => calculate fid score
+2023-10-24 20:18:12,852 Inception score mean: 7.905963897705078, Inception score std: 0.08344949781894684, FID score: 16.92967625547027 || @ epoch 105.
+2023-10-24 20:24:25,833 => calculate inception score
+2023-10-24 20:25:27,927 => calculate fid score
+2023-10-24 20:27:00,132 Inception score mean: 7.938954830169678, Inception score std: 0.10440342873334885, FID score: 16.717760240499615 || @ epoch 110.
+2023-10-24 20:33:17,236 => calculate inception score
+2023-10-24 20:34:19,759 => calculate fid score
+2023-10-24 20:35:53,047 Inception score mean: 7.918666839599609, Inception score std: 0.10866253077983856, FID score: 16.200314160710207 || @ epoch 115.
+2023-10-24 20:42:13,834 => calculate inception score
+2023-10-24 20:43:16,547 => calculate fid score
+2023-10-24 20:44:48,337 Inception score mean: 7.9710211753845215, Inception score std: 0.11496899276971817, FID score: 16.12875667742901 || @ epoch 120.
+2023-10-24 20:51:06,033 => calculate inception score
+2023-10-24 20:52:08,168 => calculate fid score
+2023-10-24 20:53:39,111 Inception score mean: 8.038373947143555, Inception score std: 0.06513833999633789, FID score: 16.08985525473753 || @ epoch 125.
+2023-10-24 20:59:56,834 => calculate inception score
+2023-10-24 21:00:59,456 => calculate fid score
+2023-10-24 21:02:30,524 Inception score mean: 7.9160943031311035, Inception score std: 0.11591710150241852, FID score: 17.361645110353834 || @ epoch 130.
+2023-10-24 21:08:46,912 => calculate inception score
+2023-10-24 21:09:49,242 => calculate fid score
+2023-10-24 21:11:21,258 Inception score mean: 7.904984474182129, Inception score std: 0.10588618367910385, FID score: 18.0811983642987 || @ epoch 135.
+2023-10-24 21:17:39,090 => calculate inception score
+2023-10-24 21:18:41,142 => calculate fid score
+2023-10-24 21:20:12,592 Inception score mean: 7.948258399963379, Inception score std: 0.060426048934459686, FID score: 16.717808003442315 || @ epoch 140.
+2023-10-24 21:26:37,538 => calculate inception score
+2023-10-24 21:27:40,567 => calculate fid score
+2023-10-24 21:29:12,124 Inception score mean: 7.9680023193359375, Inception score std: 0.0992063507437706, FID score: 15.527695791989913 || @ epoch 145.
+2023-10-24 21:35:33,827 => calculate inception score
+2023-10-24 21:36:36,795 => calculate fid score
+2023-10-24 21:38:08,757 Inception score mean: 7.993557929992676, Inception score std: 0.07424658536911011, FID score: 16.378661152277004 || @ epoch 150.
+2023-10-24 21:44:31,418 => calculate inception score
+2023-10-24 21:45:33,263 => calculate fid score
+2023-10-24 21:47:05,011 Inception score mean: 8.010868072509766, Inception score std: 0.07077567279338837, FID score: 16.00937218807536 || @ epoch 155.
+2023-10-24 21:53:27,525 => calculate inception score
+2023-10-24 21:54:31,044 => calculate fid score
+2023-10-24 21:56:02,859 Inception score mean: 7.907593727111816, Inception score std: 0.07850345224142075, FID score: 16.182197613122923 || @ epoch 160.
+2023-10-24 22:02:25,236 => calculate inception score
+2023-10-24 22:03:28,028 => calculate fid score
+2023-10-24 22:05:00,770 Inception score mean: 8.12870979309082, Inception score std: 0.09827012568712234, FID score: 15.528302468761808 || @ epoch 165.
+2023-10-24 22:11:23,541 => calculate inception score
+2023-10-24 22:12:26,396 => calculate fid score
+2023-10-24 22:14:01,034 Inception score mean: 8.042417526245117, Inception score std: 0.059736233204603195, FID score: 15.056175693114824 || @ epoch 170.
+2023-10-24 22:20:23,446 => calculate inception score
+2023-10-24 22:21:25,804 => calculate fid score
+2023-10-24 22:22:56,944 Inception score mean: 8.060760498046875, Inception score std: 0.07612048089504242, FID score: 14.410866003858018 || @ epoch 175.
+2023-10-24 22:29:18,732 => calculate inception score
+2023-10-24 22:30:21,322 => calculate fid score
+2023-10-24 22:31:53,825 Inception score mean: 8.042364120483398, Inception score std: 0.11750034242868423, FID score: 14.795642253662834 || @ epoch 180.
+2023-10-24 22:38:13,925 => calculate inception score
+2023-10-24 22:39:16,417 => calculate fid score
+2023-10-24 22:40:48,713 Inception score mean: 8.084017753601074, Inception score std: 0.1176898330450058, FID score: 15.781069193936332 || @ epoch 185.
+2023-10-24 22:47:10,040 => calculate inception score
+2023-10-24 22:48:12,796 => calculate fid score
+2023-10-24 22:49:44,371 Inception score mean: 8.19984245300293, Inception score std: 0.09687141329050064, FID score: 15.057031426902654 || @ epoch 190.
+2023-10-24 22:56:03,231 => calculate inception score
+2023-10-24 22:57:05,618 => calculate fid score
+2023-10-24 22:58:39,663 Inception score mean: 8.099851608276367, Inception score std: 0.08490375429391861, FID score: 14.491845484360397 || @ epoch 195.
+2023-10-24 23:04:59,234 => calculate inception score
+2023-10-24 23:06:01,679 => calculate fid score
+2023-10-24 23:07:33,810 Inception score mean: 8.067439079284668, Inception score std: 0.06815125793218613, FID score: 14.377910946732015 || @ epoch 200.
+2023-10-24 23:13:55,316 => calculate inception score
+2023-10-24 23:14:57,753 => calculate fid score
+2023-10-24 23:16:30,540 Inception score mean: 8.067731857299805, Inception score std: 0.09983854740858078, FID score: 15.836837049676205 || @ epoch 205.
+2023-10-24 23:22:49,902 => calculate inception score
+2023-10-24 23:23:52,032 => calculate fid score
+2023-10-24 23:25:23,268 Inception score mean: 8.215487480163574, Inception score std: 0.11982754617929459, FID score: 14.41663029335649 || @ epoch 210.
+2023-10-24 23:31:43,016 => calculate inception score
+2023-10-24 23:32:45,455 => calculate fid score
+2023-10-24 23:34:18,724 Inception score mean: 8.07565975189209, Inception score std: 0.08090927451848984, FID score: 14.686304903740677 || @ epoch 215.
+2023-10-24 23:40:38,824 => calculate inception score
+2023-10-24 23:41:41,684 => calculate fid score
+2023-10-24 23:43:13,922 Inception score mean: 8.092184066772461, Inception score std: 0.09189466387033463, FID score: 14.277769746964282 || @ epoch 220.
+2023-10-24 23:49:34,602 => calculate inception score
+2023-10-24 23:50:36,809 => calculate fid score
+2023-10-24 23:52:07,751 Inception score mean: 8.065698623657227, Inception score std: 0.14421044290065765, FID score: 14.47810199743867 || @ epoch 225.
+2023-10-24 23:58:28,746 => calculate inception score
+2023-10-24 23:59:30,964 => calculate fid score
+2023-10-25 00:01:04,347 Inception score mean: 8.261956214904785, Inception score std: 0.07594673335552216, FID score: 13.838121152863437 || @ epoch 230.
+2023-10-25 00:07:27,070 => calculate inception score
+2023-10-25 00:08:29,391 => calculate fid score
+2023-10-25 00:10:02,746 Inception score mean: 8.176041603088379, Inception score std: 0.07686202228069305, FID score: 13.663371429272047 || @ epoch 235.
+2023-10-25 00:16:24,704 => calculate inception score
+2023-10-25 00:17:26,926 => calculate fid score
+2023-10-25 00:18:58,584 Inception score mean: 8.163362503051758, Inception score std: 0.1152479350566864, FID score: 13.731015214317779 || @ epoch 240.
+2023-10-25 00:25:18,776 => calculate inception score
+2023-10-25 00:26:21,188 => calculate fid score
+2023-10-25 00:27:52,303 Inception score mean: 8.087565422058105, Inception score std: 0.09767603129148483, FID score: 14.739937612272968 || @ epoch 245.
+2023-10-25 00:34:14,746 => calculate inception score
+2023-10-25 00:35:17,443 => calculate fid score
+2023-10-25 00:36:48,773 Inception score mean: 8.221708297729492, Inception score std: 0.06775525957345963, FID score: 13.42775691428858 || @ epoch 250.
+2023-10-25 00:43:08,222 => calculate inception score
+2023-10-25 00:44:10,747 => calculate fid score
+2023-10-25 00:45:42,770 Inception score mean: 8.304061889648438, Inception score std: 0.08639253675937653, FID score: 13.298441954884765 || @ epoch 255.
+2023-10-25 00:52:02,825 => calculate inception score
+2023-10-25 00:53:05,264 => calculate fid score
+2023-10-25 00:54:37,397 Inception score mean: 8.38420295715332, Inception score std: 0.08355362713336945, FID score: 12.99837147871932 || @ epoch 260.
+2023-10-25 01:00:56,525 => calculate inception score
+2023-10-25 01:01:58,824 => calculate fid score
+2023-10-25 01:03:35,897 Inception score mean: 8.039899826049805, Inception score std: 0.11996106803417206, FID score: 14.473046969732593 || @ epoch 265.
+2023-10-25 01:09:55,318 => calculate inception score
+2023-10-25 01:10:57,653 => calculate fid score
+2023-10-25 01:12:31,559 Inception score mean: 8.14039134979248, Inception score std: 0.09696311503648758, FID score: 13.287388825776077 || @ epoch 270.
+2023-10-25 01:18:51,393 => calculate inception score
+2023-10-25 01:19:53,773 => calculate fid score
+2023-10-25 01:21:26,394 Inception score mean: 8.214864730834961, Inception score std: 0.10573264211416245, FID score: 13.118369037180628 || @ epoch 275.
+2023-10-25 01:27:45,327 => calculate inception score
+2023-10-25 01:28:47,648 => calculate fid score
+2023-10-25 01:30:18,696 Inception score mean: 8.291705131530762, Inception score std: 0.13372646272182465, FID score: 13.562285547642887 || @ epoch 280.
+2023-10-25 01:36:39,327 => calculate inception score
+2023-10-25 01:37:41,871 => calculate fid score
+2023-10-25 01:39:14,793 Inception score mean: 8.374052047729492, Inception score std: 0.13280132412910461, FID score: 13.6385046730922 || @ epoch 285.
+2023-10-25 01:45:34,299 => calculate inception score
+2023-10-25 01:46:36,714 => calculate fid score
+2023-10-25 01:48:09,089 Inception score mean: 8.15118408203125, Inception score std: 0.0924716666340828, FID score: 14.04281134696464 || @ epoch 290.
+2023-10-25 01:54:31,099 => calculate inception score
+2023-10-25 01:55:33,411 => calculate fid score
+2023-10-25 01:57:06,232 Inception score mean: 8.246562957763672, Inception score std: 0.07378191500902176, FID score: 12.64677960173924 || @ epoch 295.
+2023-10-25 02:03:26,925 => calculate inception score
+2023-10-25 02:04:29,372 => calculate fid score
+2023-10-25 02:06:01,925 Inception score mean: 8.361593246459961, Inception score std: 0.10867738723754883, FID score: 13.62727393954276 || @ epoch 300.
+2023-10-25 02:12:25,144 => calculate inception score
+2023-10-25 02:13:29,616 => calculate fid score
+2023-10-25 02:15:05,199 Inception score mean: 8.09135627746582, Inception score std: 0.08983609080314636, FID score: 13.678996442461653 || @ epoch 305.
+2023-10-25 02:21:30,657 => calculate inception score
+2023-10-25 02:22:33,870 => calculate fid score
+2023-10-25 02:24:06,724 Inception score mean: 8.166584968566895, Inception score std: 0.12105492502450943, FID score: 13.230398368805709 || @ epoch 310.
+2023-10-25 02:30:27,720 => calculate inception score
+2023-10-25 02:31:30,903 => calculate fid score
+2023-10-25 02:33:04,547 Inception score mean: 8.255785942077637, Inception score std: 0.12042638659477234, FID score: 13.518144394089859 || @ epoch 315.
+2023-10-25 02:39:28,631 => calculate inception score
+2023-10-25 02:40:32,102 => calculate fid score
+2023-10-25 02:42:06,036 Inception score mean: 8.219545364379883, Inception score std: 0.1108257919549942, FID score: 13.521373453831245 || @ epoch 320.
+2023-10-25 02:48:30,555 => calculate inception score
+2023-10-25 02:49:33,769 => calculate fid score
+2023-10-25 02:51:09,258 Inception score mean: 8.295990943908691, Inception score std: 0.06285606324672699, FID score: 13.019049613245272 || @ epoch 325.
+2023-10-25 02:57:32,311 => calculate inception score
+2023-10-25 02:58:35,228 => calculate fid score
+2023-10-25 03:00:08,697 Inception score mean: 8.262523651123047, Inception score std: 0.1382414996623993, FID score: 12.812731153536674 || @ epoch 330.
+2023-10-25 03:06:31,533 => calculate inception score
+2023-10-25 03:07:35,353 => calculate fid score
+2023-10-25 03:09:13,500 Inception score mean: 8.287940979003906, Inception score std: 0.09257595986127853, FID score: 12.856565264609003 || @ epoch 335.
+2023-10-25 03:15:38,017 => calculate inception score
+2023-10-25 03:16:41,038 => calculate fid score
+2023-10-25 03:18:15,083 Inception score mean: 8.130040168762207, Inception score std: 0.10154490917921066, FID score: 14.087718028157553 || @ epoch 340.
+2023-10-25 03:24:39,947 => calculate inception score
+2023-10-25 03:25:43,287 => calculate fid score
+2023-10-25 03:27:16,933 Inception score mean: 8.262425422668457, Inception score std: 0.08938462287187576, FID score: 12.834227459115368 || @ epoch 345.
+2023-10-25 03:33:39,532 => calculate inception score
+2023-10-25 03:34:42,502 => calculate fid score
+2023-10-25 03:36:15,730 Inception score mean: 8.181185722351074, Inception score std: 0.09764108806848526, FID score: 13.074439022398451 || @ epoch 350.
+2023-10-25 03:42:40,941 => calculate inception score
+2023-10-25 03:43:44,253 => calculate fid score
+2023-10-25 03:45:19,358 Inception score mean: 8.31152057647705, Inception score std: 0.10312935709953308, FID score: 13.18147847193535 || @ epoch 355.
+2023-10-25 03:51:44,341 => calculate inception score
+2023-10-25 03:52:47,533 => calculate fid score
+2023-10-25 03:54:21,520 Inception score mean: 8.33294677734375, Inception score std: 0.12367264181375504, FID score: 12.96097762379759 || @ epoch 360.
+2023-10-25 04:00:46,018 => calculate inception score
+2023-10-25 04:01:48,961 => calculate fid score
+2023-10-25 04:03:21,373 Inception score mean: 8.217747688293457, Inception score std: 0.090665802359581, FID score: 13.227682700352602 || @ epoch 365.
+2023-10-25 04:09:45,735 => calculate inception score
+2023-10-25 04:10:49,055 => calculate fid score
+2023-10-25 04:12:22,322 Inception score mean: 8.299692153930664, Inception score std: 0.08178684115409851, FID score: 12.215718221207737 || @ epoch 370.
+2023-10-25 04:18:48,040 => calculate inception score
+2023-10-25 04:19:51,325 => calculate fid score
+2023-10-25 04:21:25,066 Inception score mean: 8.284672737121582, Inception score std: 0.0570870041847229, FID score: 13.37827212058869 || @ epoch 375.
+2023-10-25 04:27:50,475 => calculate inception score
+2023-10-25 04:28:53,383 => calculate fid score
+2023-10-25 04:30:25,040 Inception score mean: 8.261181831359863, Inception score std: 0.09865927696228027, FID score: 12.98990559667925 || @ epoch 380.
+2023-10-25 04:36:48,322 => calculate inception score
+2023-10-25 04:37:51,288 => calculate fid score
+2023-10-25 04:39:24,378 Inception score mean: 8.340803146362305, Inception score std: 0.09797760099172592, FID score: 12.788112043438161 || @ epoch 385.
+2023-10-25 04:45:48,737 => calculate inception score
+2023-10-25 04:46:52,036 => calculate fid score
+2023-10-25 04:48:26,191 Inception score mean: 8.265300750732422, Inception score std: 0.09119526296854019, FID score: 12.988844673478923 || @ epoch 390.
+2023-10-25 04:54:51,244 => calculate inception score
+2023-10-25 04:55:55,126 => calculate fid score
+2023-10-25 04:57:29,859 Inception score mean: 8.201322555541992, Inception score std: 0.04183033108711243, FID score: 13.378212407307501 || @ epoch 395.
+2023-10-25 05:03:52,315 => calculate inception score
+2023-10-25 05:04:55,379 => calculate fid score
+2023-10-25 05:06:28,346 Inception score mean: 8.229026794433594, Inception score std: 0.06834336370229721, FID score: 13.373838562881929 || @ epoch 400.
+2023-10-25 05:12:51,737 => calculate inception score
+2023-10-25 05:13:54,924 => calculate fid score
+2023-10-25 05:15:29,126 Inception score mean: 8.38960075378418, Inception score std: 0.0818854495882988, FID score: 13.267233490946978 || @ epoch 405.
+2023-10-25 05:21:53,253 => calculate inception score
+2023-10-25 05:22:56,606 => calculate fid score
+2023-10-25 05:24:29,811 Inception score mean: 8.272794723510742, Inception score std: 0.08415164798498154, FID score: 13.543873960142946 || @ epoch 410.
+2023-10-25 05:30:52,847 => calculate inception score
+2023-10-25 05:31:55,761 => calculate fid score
+2023-10-25 05:33:28,712 Inception score mean: 8.269432067871094, Inception score std: 0.0442236103117466, FID score: 12.913740861360452 || @ epoch 415.
+2023-10-25 05:39:51,712 => calculate inception score
+2023-10-25 05:40:55,136 => calculate fid score
+2023-10-25 05:42:31,628 Inception score mean: 8.426698684692383, Inception score std: 0.1012229174375534, FID score: 12.866188947624835 || @ epoch 420.
+2023-10-25 05:48:56,799 => calculate inception score
+2023-10-25 05:50:00,233 => calculate fid score
+2023-10-25 05:51:35,849 Inception score mean: 8.348689079284668, Inception score std: 0.1190226674079895, FID score: 12.625752977914658 || @ epoch 425.
+2023-10-25 05:58:02,736 => calculate inception score
+2023-10-25 05:59:06,014 => calculate fid score
+2023-10-25 06:00:42,271 Inception score mean: 8.332695960998535, Inception score std: 0.11068502068519592, FID score: 12.824428812593055 || @ epoch 430.
+2023-10-25 06:07:05,649 => calculate inception score
+2023-10-25 06:08:09,326 => calculate fid score
+2023-10-25 06:09:43,444 Inception score mean: 8.335599899291992, Inception score std: 0.06049661710858345, FID score: 13.104534673294609 || @ epoch 435.
+2023-10-25 06:16:08,541 => calculate inception score
+2023-10-25 06:17:11,914 => calculate fid score
+2023-10-25 06:18:47,087 Inception score mean: 8.338010787963867, Inception score std: 0.12195742875337601, FID score: 13.225019053187793 || @ epoch 440.
+2023-10-25 06:25:13,439 => calculate inception score
+2023-10-25 06:26:17,080 => calculate fid score
+2023-10-25 06:27:53,077 Inception score mean: 8.175623893737793, Inception score std: 0.06486620754003525, FID score: 13.32022182421224 || @ epoch 445.
+2023-10-25 06:34:17,845 => calculate inception score
+2023-10-25 06:35:20,242 => calculate fid score
+2023-10-25 06:36:52,633 Inception score mean: 8.297904968261719, Inception score std: 0.0729251280426979, FID score: 13.096802584636237 || @ epoch 450.
+2023-10-25 06:43:17,356 => calculate inception score
+2023-10-25 06:44:20,624 => calculate fid score
+2023-10-25 06:45:54,943 Inception score mean: 8.299413681030273, Inception score std: 0.1227528303861618, FID score: 13.661406856955011 || @ epoch 455.
+2023-10-25 06:52:21,117 => calculate inception score
+2023-10-25 06:53:24,524 => calculate fid score
+2023-10-25 06:54:59,269 Inception score mean: 8.489709854125977, Inception score std: 0.09480486065149307, FID score: 12.230746668315442 || @ epoch 460.
+2023-10-25 07:01:24,442 => calculate inception score
+2023-10-25 07:02:27,617 => calculate fid score
+2023-10-25 07:04:01,830 Inception score mean: 8.323349952697754, Inception score std: 0.05712136626243591, FID score: 12.707863118189152 || @ epoch 465.
+2023-10-25 07:10:25,694 => calculate inception score
+2023-10-25 07:11:28,830 => calculate fid score
+2023-10-25 07:13:05,887 Inception score mean: 8.290541648864746, Inception score std: 0.12157019227743149, FID score: 13.26676763341834 || @ epoch 470.
+2023-10-25 07:19:30,332 => calculate inception score
+2023-10-25 07:20:33,884 => calculate fid score
+2023-10-25 07:22:08,957 Inception score mean: 8.249913215637207, Inception score std: 0.12880006432533264, FID score: 13.040771718514861 || @ epoch 475.
+2023-10-25 07:28:33,734 => calculate inception score
+2023-10-25 07:29:37,286 => calculate fid score
+2023-10-25 07:31:14,397 Inception score mean: 8.353574752807617, Inception score std: 0.09848324209451675, FID score: 12.70832420905532 || @ epoch 480.
+2023-10-25 07:37:37,559 => calculate inception score
+2023-10-25 07:38:40,815 => calculate fid score
+2023-10-25 07:40:15,365 Inception score mean: 8.23388957977295, Inception score std: 0.11467265337705612, FID score: 12.608021449120656 || @ epoch 485.
+2023-10-25 07:46:41,055 => calculate inception score
+2023-10-25 07:47:44,507 => calculate fid score
+2023-10-25 07:49:18,804 Inception score mean: 8.337915420532227, Inception score std: 0.11245402693748474, FID score: 12.995970559565706 || @ epoch 490.
+2023-10-25 07:55:44,235 => calculate inception score
+2023-10-25 07:56:47,744 => calculate fid score
+2023-10-25 07:58:23,158 Inception score mean: 8.336821556091309, Inception score std: 0.09723766148090363, FID score: 12.388733260891854 || @ epoch 495.
+2023-10-25 08:04:48,159 => calculate inception score
+2023-10-25 08:05:51,592 => calculate fid score
+2023-10-25 08:07:26,316 Inception score mean: 8.270546913146973, Inception score std: 0.1060265302658081, FID score: 13.355736044486207 || @ epoch 500.
+
